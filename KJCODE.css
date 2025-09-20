@@ -63,7 +63,7 @@ header nav a.activo {
     align-items: center;
     text-align: center;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url("IMAGENES/FONDO.webp") no-repeat center center/cover;
+        url("FONDO.webp") no-repeat center center/cover;
     color: #fff;
     padding: 0 20px;
 }
